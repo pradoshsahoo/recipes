@@ -1,0 +1,104 @@
+#input{
+    width:40%;
+    position: absolute;
+    top: 20%;
+    background-color:rgb(41, 41, 41);
+    backdrop-filter: blur(2px);
+    text-align: center;
+    height: 45%;
+    z-index:3;
+    margin-left: 30%;
+    border-radius: 10px;
+    padding-top: 4%;
+    box-shadow: 5px 5px 10px #1a1a1a;
+}
+#add,#cancel{
+    background-color: orange;
+    border:1.5px solid orange;
+    color: white;
+    padding: 9px;
+    font-size: 12px;
+    font-weight: 500;
+    border-radius: 5px;
+    margin: 5%;
+    width: 32%;
+    text-transform: uppercase;
+}
+.inputEle input{
+    padding: 2%;
+    width: 70%;
+    margin: 2%;
+    color: white;
+    background-color: rgb(40, 40, 40);
+    border: 1.5px solid rgb(57, 57, 57);
+    border-radius: 8px;
+}
+#searchField{
+    margin: 1%;
+    margin-top: 0.5%;
+    margin-left: 30%;
+    width: 37.7%;
+    padding: 1%;
+    color: white;
+    background-color: rgb(40, 40, 40);
+    border: 1.5px solid rgb(57, 57, 57);
+    border-radius: 8px;
+}
+.pageButtons{
+    text-align: center;
+}
+.unselected,.selected{
+    margin: 0.5%;
+    margin-top: 2%;
+    width:3%;
+    height: 2rem;
+    color: rgba(255, 255, 255, 0.61);
+    background-color: rgb(34, 34, 34);
+    border-radius: 5px;
+    border: 1.5px solid rgba(255, 255, 255, 0.653);
+}
+.selected{
+    border-color: orange;
+    color: orange;
+}
+.unselected:hover{
+    border-color: orange;
+    color: orange;
+}
+#nodata{
+    text-align: center;
+    font-size: 30px;
+    margin-top: 10%;
+}
+
+
+#updForm{
+    background-color: rgb(46, 46, 46);
+    border-radius: 10px;
+    height: 20rem;
+    padding: 4%;
+    box-sizing: border-box;
+} 
+.updateEle{
+    margin: 6%;
+}
+.uEle{
+    color: white;
+    background-color: rgb(40, 40, 40);
+    border: 1.5px solid rgb(57, 57, 57);
+    border-radius: 8px;
+    padding: 6%;
+    width: 90%;
+}
+#update,#ucancel{
+    background-color: orange;
+    border:1.5px solid orange;
+    color: white;
+    padding: 9px;
+    font-size: 12px;
+    font-weight: 500;
+    border-radius: 5px;
+    margin: 5%;
+    width: 40%;
+    text-transform: uppercase;
+}

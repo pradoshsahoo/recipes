@@ -1,0 +1,98 @@
+{
+  "data": [
+    {
+      "title": "biriyani",
+      "rating": "4.3",
+      "image": "https://mariasindiankitchen.com/wp-content/uploads/2023/01/chicken-biriyani-3.jpg",
+      "id": 1
+    },
+    {
+      "image": "https://static.toiimg.com/thumb/53094926.cms?width=1200&height=900",
+      "title": "Chicken 65",
+      "rating": 4,
+      "desc": "Chilli chicken is a sweet, spicy & slightly sour crispy appetizer made with chicken, bell peppers, garlic, chilli sauce & soya sauce.",
+      "id": 2
+    },
+    {
+      "title": "Manchurian",
+      "rating": "4.2",
+      "image": "https://myfoodstory.com/wp-content/uploads/2021/10/Veg-Manchurian-FI-1.jpg",
+      "desc": "",
+      "id": 3
+    },
+    {
+      "image": "https://static.toiimg.com/photo/75490988.cms",
+      "title": "paneer 65",
+      "rating": 5,
+      "desc": "Paneer 65 is a spicy South Indian appetizer made with Paneer aka Indian cheese, flour, spices and herbs like curry leaves.",
+      "id": 4
+    },
+    {
+      "image": "https://overthefirecooking.com/wp-content/uploads/2022/10/A_IMG_5877-2.jpg",
+      "title": "chicken lollipop",
+      "rating": "4.2",
+      "desc": "Chicken lollipop is a popular Indo-Chinese appetizer where a frenched chicken drumette is marinated",
+      "id": 5
+    },
+    {
+      "title": "chilli gobi",
+      "rating": "4",
+      "image": "https://static.toiimg.com/thumb/58376391.cms?imgsize=385325&width=800&height=800",
+      "desc": "",
+      "id": 1686411282723,
+      "obj": {
+        "rating": "4.1"
+      }
+    },
+    {
+      "title": "Manchurian",
+      "rating": "4.8",
+      "image": "https://myfoodstory.com/wp-content/uploads/2021/10/Veg-Manchurian-FI-1.jpg",
+      "desc": "",
+      "id": 1686414926094
+    },
+    {
+      "title": "Fried rice",
+      "rating": "4.6",
+      "image": "https://www.indianhealthyrecipes.com/wp-content/uploads/2020/12/fried-rice.jpg",
+      "desc": "",
+      "id": 1686484095185
+    },
+    {
+      "title": "Dahi Bara",
+      "rating": "4.8",
+      "image": "https://static.toiimg.com/thumb/55432577.cms?imgsize=240828&width=800&height=800",
+      "desc": "",
+      "id": 1686502340290
+    },
+    {
+      "title": "chole bhature",
+      "rating": "4.8",
+      "image": "https://media.vogue.in/wp-content/uploads/2020/08/chole-bhature-recipe.jpg",
+      "desc": "",
+      "id": 1686537401312
+    }
+  ],
+  "user": [
+    {
+      "email": "pradoshsahoo81@gmail.com",
+      "password": "1234",
+      "id": 1685609211428
+    },
+    {
+      "email": "pk@gmail.com",
+      "password": "123",
+      "id": 1685625490390
+    },
+    {
+      "email": "anu@gmail.com",
+      "password": "123",
+      "id": 1685626371851
+    },
+    {
+      "email": "pradoshsahoo81@gmail.com",
+      "password": "11",
+      "id": 1685626519747
+    }
+  ]
+}
