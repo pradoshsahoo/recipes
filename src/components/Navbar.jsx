@@ -24,7 +24,7 @@ function Navbar() {
       </a>
       <input
         type="text"
-        placeholder="Search your favourite recipes"
+        placeholder="Search you favourite recipes"
         value={str}
         id="searchField"
         onChange={(e) => setStr(e.target.value)}

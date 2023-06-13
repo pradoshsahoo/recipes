@@ -12,8 +12,19 @@ a{
     text-decoration: none;
     color: white;
 }
+#searchField{
+    margin: 1.75%;
+    margin-left: 43.5%;
+    width: 20%;
+    padding: 1%;
+    height: 0.5rem;
+    color: white;
+    background-color: rgb(14, 14, 14);
+    border: 1.5px solid rgb(57, 57, 57);
+    border-radius: 8px;
+}
 .nav_ele{
-    margin: 20px;
+    margin: 25px;
 }
 .nav_ele:hover{
     color: orange;
